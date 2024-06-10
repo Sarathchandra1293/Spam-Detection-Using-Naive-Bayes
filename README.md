@@ -7,6 +7,11 @@ This repository contains the implementation of an SMS/Email spam classification 
 
 The SMS/Email Spam Classifier project aims to classify messages as either 'spam' or 'ham' (not spam) using machine learning techniques. The classifier is built using the Naive Bayes algorithm, and the model is deployed using Streamlit to provide an interactive web application for users to test the classifier with their own messages.
 
+![output](https://github.com/Sarathchandra1293/Spam-Detection-Using-Naive-Bayes/assets/99632999/ab358ed0-cd9d-41dc-a860-2268325fdb4b)
+
+
+![output1](https://github.com/Sarathchandra1293/Spam-Detection-Using-Naive-Bayes/assets/99632999/127f9848-d520-4f73-943a-fece07dbaa63)
+
 ## Dataset
 
 The dataset used in this project is the "SMSSpamCollection" dataset, which consists of a collection of SMS messages labeled as 'spam' or 'ham'. The dataset can be found in the `SMSSpamCollection.txt` file.
