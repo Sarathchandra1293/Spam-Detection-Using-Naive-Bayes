@@ -75,5 +75,5 @@ To run this project locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or contact here [1](sarathchandraedubelli@gmail.com) or [2](saiswaroop.5154@gmail.com)
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or contact here [E-mail](sarathchandraedubelli@gmail.com)
 
